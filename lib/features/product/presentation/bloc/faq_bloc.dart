@@ -9,7 +9,7 @@ import 'package:equatable/equatable.dart';
 import 'package:injectable/injectable.dart';
 import 'package:meta/meta.dart';
 
-import '../../../../core/config/injectable.dart';
+import '../../../../core/di/injectable.dart';
 import '../../../../core/state/abs_pagination_state.dart';
 import '../../../../core/state/failure_state.dart';
 import '../../domain/model/faq_model.dart';

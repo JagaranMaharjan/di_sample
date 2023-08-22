@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
-import 'package:di_sample/core/config/injectable.dart';
+import 'package:di_sample/core/di/injectable.dart';
 import 'package:dio/dio.dart';
 import 'package:injectable/injectable.dart';
 

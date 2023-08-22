@@ -4,7 +4,7 @@ import 'package:di_sample/core/state/failure_state.dart';
 import 'package:di_sample/features/product/domain/repo/faq_repo.dart';
 import 'package:injectable/injectable.dart';
 
-import '../../../../core/config/injectable.dart';
+import '../../../../core/di/injectable.dart';
 
 @LazySingleton(as: FaqRepo)
 class FaqRepoImpl implements FaqRepo {

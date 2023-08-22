@@ -3,7 +3,7 @@ import 'package:di_sample/features/product/presentation/bloc/faq_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../../../../core/config/injectable.dart';
+import '../../../../core/di/injectable.dart';
 
 class FAQScreen extends StatefulWidget {
   const FAQScreen({Key? key}) : super(key: key);
